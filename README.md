@@ -22,7 +22,7 @@ An Appointment model, which has the following attribute:
 
 ## Table Modelization
 
-![alt text](https://github.com/camillelenormand/freedoc/blob/main/public/FreeDocModel.excalidraw.png?raw=true)
+![alt text](https://github.com/camillelenormand/freedoc/blob/main/public/BDD_Freedoc.png?raw=true)
 
 
 Then, create data through the seed.db file
